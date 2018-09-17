@@ -56,7 +56,7 @@
 	<header id="head">
 	<div class="container">
 		<div class="row">
-			<h1 class="lead" style="font-size:84px;font-family:STXingkai;">测试管理平台66</h1>
+			<h1 class="lead" style="font-size:84px;font-family:STXingkai;">测试管理平台77</h1>
 			<p class="tagline"></p>
 			<p>
 				<!-- 
