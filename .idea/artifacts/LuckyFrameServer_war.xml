@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LuckyFrameServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LuckyFrameServer.war">
+      <element id="artifact" artifact-name="LuckyFrameServer:war exploded" />
+    </root>
+  </artifact>
+</component>
